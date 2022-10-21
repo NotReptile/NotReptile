@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/3oFzlYX1UTJkviPhra/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NotReptile&style=flat-square&color=blue" alt=""/>
   <h1>Hi there 👋</h1>
 </div>
 
