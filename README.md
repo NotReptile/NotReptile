@@ -5,7 +5,7 @@
   <h1>Hi there 👋</h1>
 </div>
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning kotlin
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
